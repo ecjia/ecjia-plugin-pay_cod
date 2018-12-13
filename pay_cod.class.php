@@ -84,6 +84,14 @@ class pay_cod extends PaymentAbstract
     
         return $this->loadPluginData(RC_Plugin::plugin_dir_path(__FILE__) . '/languages/'.$locale.'/plugin.lang.php', $key, $default);
     }
+
+    /**
+     * 统一下单方法
+     */
+    public function unifiedOrder()
+    {
+
+    }
     
     public function get_prepare_data() {
         $predata = array(
