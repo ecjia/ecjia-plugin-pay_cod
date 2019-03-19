@@ -46,7 +46,7 @@
 //
 /*
 Plugin Name: 货到付款
-Plugin URI: http://www.ecjia.com/plugins/ecjia.cod/
+Plugin URI: http://www.ecjia.com/plugins/ecjia.pay_cod/
 Description: 开通城市：×××<br>货到付款区域：×××
 Author: ECJIA TEAM
 Version: 1.30.0
