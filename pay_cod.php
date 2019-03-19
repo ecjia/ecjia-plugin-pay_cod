@@ -52,6 +52,7 @@ Author: ECJIA TEAM
 Version: 1.30.0
 Author URI: http://www.ecjia.com/
 Plugin App: payment
+Text Domain: pay_cod
 */
 defined('IN_ECJIA') or exit('No permission resources.');
 class plugin_pay_cod {
